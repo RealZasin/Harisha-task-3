@@ -24,17 +24,17 @@ html {
 }
 
 .pimg1 {
-  background-image: url("/Muscle.jpg");
+  background-image: url("./images/Muscle.jpg");
   min-height: 100%;
 }
 
 .pimg2 {
-  background-image: url("/Nutrition.jpg");
+  background-image: url("./images/Nutrition.jpg");
   min-height: 100%;
 }
 
 .pimg3 {
-  background-image: url("/Cardio.jpg");
+  background-image: url("./images/Cardio.jpg");
   min-height: 100%;
 }
 
